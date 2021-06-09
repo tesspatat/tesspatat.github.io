@@ -12,8 +12,8 @@ ol {
 }
 
 h2, h3 {
-	  font-size: 20px;
-    font-family: 'Gloria Hallelujah', cursive;
+	  font-size: 30px;
+    font-family: 'signpainter', cursive;
 }
 
 .span-yellow { color: #D6A498; }
@@ -28,6 +28,10 @@ h2, h3 {
 	margin: 100px 200px;
 	padding: 20px;
 
+}
+
+.frame > p {
+	text-align: left;
 }
 
 .frame2 {
@@ -54,7 +58,7 @@ background-repeat: no-repeat;
 background-position: top left;
 
 	text-align: center; 
-	font-family: Arial; 
+	font-family: big carlson; 
 }
 
 h3, ol {
@@ -81,9 +85,9 @@ a, a:hover {
 
 h5 {
 	text-align: center; 
-	font-family: Arial;
+	font-family: big carlson;
 	font-size: 20px;
-	color: #D6A498;
+	color: #02475e;
 }
 
 .navbar {
@@ -92,7 +96,7 @@ h5 {
   align-items: center;
   background: transparent;
   width: 96%;
-  font-size: 20px;
+  font-size: 15px;
   color: hotpink;
 }
 
@@ -109,4 +113,27 @@ h5 {
 
 .link:hover {
   color: #458D2E;
+}
+
+.lien1 { 
+color: black; 
+text-decoration: underline;}
+
+.lien2 {
+	color: black;
+	text-decoration: underline;
+}
+
+.lien3 {
+	color: black;
+	text-decoration: underline;
+}
+
+.imagesete {
+	margin-right: 150px;
+}
+
+h5{
+	font-family: signpainter;
+	font-size: 30px;
 }
